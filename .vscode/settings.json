@@ -1,0 +1,11 @@
+{
+  "symbols.folders.associations": {
+    "core": "folder-red-code",
+    "adapters": "folder-green-code",
+    "external": "folder-blue-code",
+    "user": "folder-orange-code",
+    "shared": "folder-purple",
+    "service": "folder-yellow",
+    "model": "folder-red"
+  }
+}
